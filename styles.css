@@ -145,3 +145,7 @@ height: 250px;
     color: #EAF6F6;
     font-size: 0.75rem;
   }
+
+[class*="col-"] {
+  width: 100%;
+}
