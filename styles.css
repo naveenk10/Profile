@@ -146,6 +146,3 @@ height: 250px;
     font-size: 0.75rem;
   }
 
-[class*="col-"] {
-  width: 100%;
-}
